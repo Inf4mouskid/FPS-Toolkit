@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b04cd67bcb9ed94a90c1ff73de5e9a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MuzzleFlash: {instanceID: 0}
+  - ImpactEffect: {instanceID: 0}
+  - ReticleAnimation: {instanceID: 0}
+  - GunStats: {fileID: 114553137900479760, guid: 0b129ac71cc9c684d80215b6f4b6ec36,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
