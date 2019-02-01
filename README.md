@@ -1,9 +1,9 @@
 # FPS-Toolkit
 
 
-##Status: Cleansed
+## Status: Cleansed
 
-##Requirements:
+## Requirements:
 - Unity tools
 * Pro Grids
 * Pro Builder
