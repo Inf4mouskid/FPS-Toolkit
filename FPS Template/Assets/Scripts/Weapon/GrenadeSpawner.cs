@@ -10,7 +10,7 @@ public class GrenadeSpawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire2") || Input.GetAxis("Fire2") >= 0.5f)
+        if (Input.GetButtonDown("Fire2"))
         {
             Throw();
         }
